@@ -7,6 +7,8 @@ class DdcShob < Formula
 
     bottle :unneeded
 
+    depends_on "openssl"
+
     def install
         bin.install "ddc-shob"
     end
