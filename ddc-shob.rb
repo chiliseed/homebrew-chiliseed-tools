@@ -1,9 +1,9 @@
 class DdcShob < Formula
     desc "Command line utility to simplify developers life. Short and precise cli commands to interact with django (or other python) server running in docker container via docker compose."
     homepage "https://github.com/chiliseed/django-compose-shob"
-    url "https://github.com/chiliseed/django-compose-shob/releases/download/0.3.0/ddc-shob-0.3.0.darwin_amd64.tar.gz"
-    version "v0.3.0"
-    sha256 "803c9ac56d8ba5018e97ffa81c08e74bf4518997673ec0b92f896a8cb56ed6da"
+    url "https://github.com/chiliseed/django-compose-shob/releases/download/0.4.1/ddc-shob-0.4.1.darwin_amd64.tar.gz"
+    version "v0.4.1"
+    sha256 "0b1a1f225779415c58e7d76defdf0bb62be567a94a0a5b821eb0f078dadcc313"
 
     bottle :unneeded
 
